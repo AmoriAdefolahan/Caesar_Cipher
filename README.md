@@ -35,5 +35,5 @@ khoor
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[GitHub](https://github.com/FH089)
+Amori Adefolahan 
 
